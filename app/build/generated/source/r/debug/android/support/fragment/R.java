@@ -99,13 +99,13 @@ public final class R {
         public static final int right = 0x7f070058;
         public static final int right_icon = 0x7f070059;
         public static final int right_side = 0x7f07005a;
-        public static final int start = 0x7f070076;
-        public static final int tag_transition_group = 0x7f07007a;
-        public static final int text = 0x7f07007b;
-        public static final int text2 = 0x7f07007c;
-        public static final int time = 0x7f07007f;
-        public static final int title = 0x7f070080;
-        public static final int top = 0x7f070083;
+        public static final int start = 0x7f070077;
+        public static final int tag_transition_group = 0x7f07007b;
+        public static final int text = 0x7f07007c;
+        public static final int text2 = 0x7f07007d;
+        public static final int time = 0x7f070080;
+        public static final int title = 0x7f070081;
+        public static final int top = 0x7f070084;
     }
     public static final class integer {
         public static final int status_bar_notification_info_maxnum = 0x7f080004;

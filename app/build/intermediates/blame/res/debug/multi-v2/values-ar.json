@@ -4,7 +4,7 @@
             "outputFile": "/home/pushkar/TeachMe/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
             "map": [
                 {
-                    "source": "/home/pushkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/bb5e51e768c575a563554f45256c727f/res/values-ar/values-ar.xml",
+                    "source": "/home/pushkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/6369bd29725319e196530e84a18e8f6d/res/values-ar/values-ar.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/pushkar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/026cf57fd07acb48566d40c573c339aa/res/values-ar/values-ar.xml",
+                    "source": "/home/pushkar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/202620ea3753019229d8afea86f7d54b/res/values-ar/values-ar.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

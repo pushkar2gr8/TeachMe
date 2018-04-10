@@ -1,105 +1,113 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-23:12
-MERGED from [com.android.support:appcompat-v7:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/bb5e51e768c575a563554f45256c727f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pushkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3c3bce32871db65b4edbd1c3572ec673/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:cardview-v7:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/35c2ecaef6ca8bd7565fe8f672ecafd6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/c5b42a6aca2ef3416373ed5bd2c25484/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/6f30f45c7c5b2fa5dc7394a8fa68f7aa/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/27418121a7a82501eeeb47ca7a481cc6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/703bb3169330e204cd7fc63b277a740f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/15dd0fc31e3ff6b6a85d606edaea6542/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/026cf57fd07acb48566d40c573c339aa/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/85514f428ff1a003ca6b7cdf39c17341/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2da8f70b2048a869306c4bd43a6a0b61/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dd25563c385dd97c19f8dbc3d4e119e1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e3ba3fdea512fa11a4421d4fbd226a10/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/6369bd29725319e196530e84a18e8f6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pushkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a2669a09b2442192e8eb693226e7bd94/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/7d57e182b97a198f4b90a32a20741092/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/87233006886f910f7a37299094a2ac0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/d8d09480322fa6d96c22c56cf06af418/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/0ac86fb31a978a02f1be38b65a162689/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/e8836b904edfb7328cc7523b9f5c8a51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/415be7303b1e5b6932ef0ea6572b3687/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/202620ea3753019229d8afea86f7d54b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ed1feac10558b90e93f38f33a755ad1b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4cfbffbad9d928b8d7399d2b1c1af82d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f24b0e74080885a59920cc4988623637/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0324418e2e742bc9a992b408dd5b4a42/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:3:5-34
 		INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml
 		INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml
-		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-23:12
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml
-		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-23:12
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:5:5-21:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pushkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3c3bce32871db65b4edbd1c3572ec673/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pushkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3c3bce32871db65b4edbd1c3572ec673/AndroidManifest.xml:9:5-20
+ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pushkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a2669a09b2442192e8eb693226e7bd94/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pushkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a2669a09b2442192e8eb693226e7bd94/AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:13:9-40
 activity#com.pushkar.teachme.SplashScreen
-ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:12:9-19:20
+ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:14:9-21:20
 	android:noHistory
-		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:13:13-37
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:15:13-37
 	android:name
-		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:14:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:14:13-18:29
+ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:15:17-69
+ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:19:27-74
 activity#com.pushkar.teachme.Login
-ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:20:9-52
+ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:22:9-52
 	android:name
-		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:20:19-40
+		ADDED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml:22:19-40
 uses-sdk
 INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml
 INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/bb5e51e768c575a563554f45256c727f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/bb5e51e768c575a563554f45256c727f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pushkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3c3bce32871db65b4edbd1c3572ec673/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pushkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3c3bce32871db65b4edbd1c3572ec673/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/35c2ecaef6ca8bd7565fe8f672ecafd6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/35c2ecaef6ca8bd7565fe8f672ecafd6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/c5b42a6aca2ef3416373ed5bd2c25484/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/c5b42a6aca2ef3416373ed5bd2c25484/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/6f30f45c7c5b2fa5dc7394a8fa68f7aa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/6f30f45c7c5b2fa5dc7394a8fa68f7aa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/27418121a7a82501eeeb47ca7a481cc6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/27418121a7a82501eeeb47ca7a481cc6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/703bb3169330e204cd7fc63b277a740f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/703bb3169330e204cd7fc63b277a740f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/15dd0fc31e3ff6b6a85d606edaea6542/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/15dd0fc31e3ff6b6a85d606edaea6542/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/026cf57fd07acb48566d40c573c339aa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/026cf57fd07acb48566d40c573c339aa/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/85514f428ff1a003ca6b7cdf39c17341/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/85514f428ff1a003ca6b7cdf39c17341/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2da8f70b2048a869306c4bd43a6a0b61/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2da8f70b2048a869306c4bd43a6a0b61/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dd25563c385dd97c19f8dbc3d4e119e1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dd25563c385dd97c19f8dbc3d4e119e1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e3ba3fdea512fa11a4421d4fbd226a10/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e3ba3fdea512fa11a4421d4fbd226a10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/6369bd29725319e196530e84a18e8f6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/6369bd29725319e196530e84a18e8f6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pushkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a2669a09b2442192e8eb693226e7bd94/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pushkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a2669a09b2442192e8eb693226e7bd94/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/7d57e182b97a198f4b90a32a20741092/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/7d57e182b97a198f4b90a32a20741092/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/87233006886f910f7a37299094a2ac0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/87233006886f910f7a37299094a2ac0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/d8d09480322fa6d96c22c56cf06af418/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/d8d09480322fa6d96c22c56cf06af418/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/0ac86fb31a978a02f1be38b65a162689/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/0ac86fb31a978a02f1be38b65a162689/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/e8836b904edfb7328cc7523b9f5c8a51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/e8836b904edfb7328cc7523b9f5c8a51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/415be7303b1e5b6932ef0ea6572b3687/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/415be7303b1e5b6932ef0ea6572b3687/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/202620ea3753019229d8afea86f7d54b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/202620ea3753019229d8afea86f7d54b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ed1feac10558b90e93f38f33a755ad1b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ed1feac10558b90e93f38f33a755ad1b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4cfbffbad9d928b8d7399d2b1c1af82d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4cfbffbad9d928b8d7399d2b1c1af82d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f24b0e74080885a59920cc4988623637/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f24b0e74080885a59920cc4988623637/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0324418e2e742bc9a992b408dd5b4a42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/pushkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0324418e2e742bc9a992b408dd5b4a42/AndroidManifest.xml:20:5-44
 INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml
 INJECTED from /home/pushkar/TeachMe/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion

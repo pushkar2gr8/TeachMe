@@ -2,6 +2,7 @@
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:background="@color/grey_10"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -80,7 +81,7 @@
                     android:id="@+id/password"
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent"
-                    android:inputType="text"
+                    android:inputType="textPassword"
                     android:textStyle="bold"
                     android:textColor="@color/blue_600"
                     android:layout_marginLeft="@dimen/spacing_medium"
@@ -91,16 +92,18 @@
                 <View
                     android:layout_width="match_parent"
                     android:layout_height="20dp" />
+
                 <Button
-                    android:textStyle="bold"
-                    android:background="@drawable/btn_rounded_primary"
+                    android:id="@+id/signin_button"
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:layout_marginLeft="@dimen/spacing_medium"
                     android:layout_marginRight="@dimen/spacing_medium"
+                    android:background="@drawable/btn_rounded_primary"
                     android:text="S I G N  I N"
                     android:textAllCaps="false"
-                    android:textColor="#ffffff"/>
+                    android:textColor="#ffffff"
+                    android:textStyle="bold" />
                 <LinearLayout
                     android:gravity="center_horizontal"
                     android:orientation="horizontal"
